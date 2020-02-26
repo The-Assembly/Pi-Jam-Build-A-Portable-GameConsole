@@ -1,7 +1,7 @@
 #!/bin/sh
 #Author: Asif Rasheed
 
-COMMAND='python3 RAT.py'
+COMMAND='python3 /home/pi/RAT.py'
 LOGFILE=log.txt
 
 now=`date`
